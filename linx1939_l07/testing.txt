@@ -1,0 +1,19 @@
+2024-11-15 11:28:54.540 java[9995:6879296] +[IMKClient subclass]: chose IMKClient_Legacy
+2024-11-15 11:28:54.540 java[9995:6879296] +[IMKInputSession subclass]: chose IMKInputSession_Legacy
+Push Me
+Slider: 11
+Slider: 38
+2024-11-15 11:28:59.749 java[9995:6879296] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+Spinner: February
+Spinner: March
+Spinner: April
+Star Trek
+Star Trek
+Star Wars
+[Mustard]
+[Mustard, Onions]
+[Mustard]
+[]
+[Ketchup]
+[Ketchup, Onions]
+Push Me
