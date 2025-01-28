@@ -1,0 +1,29 @@
+"""
+-------------------------------------------------------
+testing.txt
+CP213 Documentation Lab Testing
+-------------------------------------------------------
+Author:  Hunter Lin
+ID: 169061939     
+Email: linx1939@mylaurier.ca  
+Version: 22.0.2
+-------------------------------------------------------
+"""
+Enter any number, press q to quit
+5
+Enter any number, press q to quit
+8
+Enter any number, press q to quit
+what
+'what' is not an integer or 'q'.
+Enter any number, press q to quit
+q
+Total: 13
+----------------------------------------
+Lines: 81
+----------------------------------------
+Tokens: 216
+----------------------------------------
+Words: 6
+----------------------------------------
+Done
