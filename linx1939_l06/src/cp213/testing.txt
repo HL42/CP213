@@ -1,0 +1,25 @@
+Test scannerTest
+
+Enter an integer ("Quit" to stop): 
+1
+Enter an integer ("Quit" to stop): 
+2
+Enter an integer ("Quit" to stop): 
+3
+Enter an integer ("Quit" to stop): 
+Quit
+Total: 6
+
+Test stringPrinter
+*****
+
+getMessage:
+Sorry your number is negative
+
+toString:
+java.lang.IllegalArgumentException: Sorry your number is negative
+
+printStackTrace:
+java.lang.IllegalArgumentException: Sorry your number is negative
+	at cp213.Main.stringPrinter(Main.java:83)
+	at cp213.Main.main(Main.java:26)
